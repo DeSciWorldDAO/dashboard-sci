@@ -1,4 +1,19 @@
-# dashboard-sci
-The Science Commons Iniciative dashboard code
-
-```{"_id":{"$oid":"630aca18900d8f427a2e95e7"},"name":"The Science Commons Initiative","tokenSymbol":null,"DaoOS":"Snapshot","address":"","description":"The Science Commons Initiative is a non-profit collaboration aimed at increasing the public's access to and participation in the scientific process. We find, spotlight, and fund technological and other strategic infrastructure to help scientists and researchers solve some of the world's most pressing problems, with an emphasis on engaging the public. We seek to make long-lasting changes to the way science is produced and communicated so that it is more open, more democratic, and more optimized to benefit the public.","whitePaperLink":"https://thesciencecommons.org/aboutus/","callToActionLink":"https://discord.gg/BXdPnxQjpv","gallery":[],"deleted":false,"primaryColor":"#ed786a","twitterHandle":"TheSCInitiative","coingeckoId":null,"snapshotId":null,"logo":"https://i.imgur.com/cqOy7RN.png","discordLink":"https://discord.gg/BXdPnxQjpv","website":"https://thesciencecommons.org","tokenDescription":null,"tokenTradeLink":null,"tags":["Ecosystems","Publishing","Philantropy","Blockchain protocols"]}```
+{"name":"The Science Commons Initiative",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":"",
+"description":"The Science Commons Initiative is a non-profit collaboration aimed at increasing the public's access to and participation in the scientific process. We find, spotlight, and fund technological and other strategic infrastructure to help scientists and researchers solve some of the world's most pressing problems, with an emphasis on engaging the public. We seek to make long-lasting changes to the way science is produced and communicated so that it is more open, more democratic, and more optimized to benefit the public.",
+"whitePaperLink":"https://thesciencecommons.org/aboutus/",
+"callToActionLink":"https://discord.gg/BXdPnxQjpv",
+"gallery":[],
+"deleted":false,
+"primaryColor":"#ed786a",
+"twitterHandle":"TheSCInitiative",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://i.imgur.com/cqOy7RN.png",
+"discordLink":"https://discord.gg/BXdPnxQjpv",
+"website":"https://thesciencecommons.org",
+"tokenDescription":null,
+"tokenTradeLink":null,
+"tags":["Ecosystems","Publishing","Philantropy","Blockchain protocols"]}
